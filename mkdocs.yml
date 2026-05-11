@@ -5,6 +5,8 @@ nav:
     - 'Home': 'index.md'
     - 'ds_dev.md'
     - 'statistics_l2.md'
+    - 'univariate-descriptive-statistics.md'
+    - 'bivariate-descriptive-statistics.md'
 
 theme:
   name: material

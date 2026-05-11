@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "2c8b670c74035452",
+    "type": "split",
+    "children": [
+      {
+        "id": "7112d41a01b24993",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66c2ebbe34c5a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "statistics_l2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "statistics_l2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80f52266cc559fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "81df387a08ef698f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c8ebc12ced5c6d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "4d75d17c2e097269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "dc7081a1e9b1198b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b984242541b05945",
+    "type": "split",
+    "children": [
+      {
+        "id": "5648850bcc642ee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a1fdbae88bbddc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "statistics_l2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "statistics_l2へのバックリンク"
+            }
+          },
+          {
+            "id": "15616e366b7697d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "statistics_l2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "statistics_l2からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "3dd05d44f0394356",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "b5e8be6f1e661806",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "acbce3dce9c3846c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "statistics_l2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "statistics_l2のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "e66c2ebbe34c5a8b",
+  "lastOpenFiles": [
+    "univariate-descriptive-statistics.md",
+    "statistics_l2.md",
+    "bivariate-descriptive-statistics.md",
+    "index.md",
+    "ds_dev.md"
+  ]
+}
