@@ -7,6 +7,7 @@ nav:
     - 'statistics_l2.md'
     - 'univariate-descriptive-statistics.md'
     - 'bivariate-descriptive-statistics.md'
+    - 'truncation-effect.md'
 
 theme:
   name: material
@@ -34,6 +35,7 @@ extra:
   homepage: https://bearworks.uk/
 
 markdown_extensions:
+  - admonition
   - pymdownx.tasklist:
       custom_checkbox: true
       ##clickable_checkbox: true
