@@ -1,14 +1,19 @@
 site_name: Data Science Docs
 
 nav:
-    - 'Hub': 'https://bearworks.uk'
-    - 'Home': 'index.md'
-    - 'ds_dev.md'
-    - 'statistics_l2.md'
-    - 'univariate-descriptive-statistics.md'
-    - 'bivariate-descriptive-statistics.md'
-    - 'truncation-effect.md'
-    - '独立と排反の実務活用': 'independence-mutual-exclusivity-in-operations.md'
+  - ホーム: index.md
+  - 統計学:
+      - 統計検定2級・学習まとめ: statistics_l2.md
+      - 記述統計:
+          - 1変数記述統計: univariate-descriptive-statistics.md
+          - 2変数記述統計: bivariate-descriptive-statistics.md
+      - 分析の落とし穴:
+          - 切断効果: truncation-effect.md
+  - データサイエンス:
+      - 統計検定DS発展・勉強メモ: ds_dev.md
+  - 実務への応用:
+      - 独立と排反（問い合わせ・障害分析）: independence-mutual-exclusivity-in-operations.md
+  - Bearworks Hub: https://bearworks.uk/
 
 theme:
   name: material
