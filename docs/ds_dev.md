@@ -750,14 +750,4 @@ print(sum(sigma))
 
 - [ ] 教師なし学習によるグルーピング （例：顧客セグメンテーション、店舗クラスタリング）
 - [ ] データの収集、加工、分析
-- [ ] データ分析結果の共有、課題解決に向けた提案 
-
-- [x] 予備
-
-<details>
-<summary>xxx</summary>
-
-aaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccc
-</details>
+- [ ] データ分析結果の共有、課題解決に向けた提案
