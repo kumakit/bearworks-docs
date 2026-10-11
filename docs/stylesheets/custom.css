@@ -23,8 +23,35 @@
 .md-typeset details {
   border-radius: var(--custom-border-radius);
   border: 1px solid #e0e0e0;
-  box-shadow: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
   background-color: #ffffff;
+  color: #374151; /* 濃いグレー */
+}
+
+/* Admonition内の見出し・テキスト・リストの視認性向上（濃いグレー） */
+.md-typeset .admonition-title,
+.md-typeset summary {
+  color: #1f2937 !important; /* はっきり読める濃いグレー */
+  font-weight: 700;
+}
+
+.md-typeset .admonition p,
+.md-typeset .admonition li,
+.md-typeset details p,
+.md-typeset details li {
+  color: #374151; /* 濃いグレー (Slate 700) */
+}
+
+.md-typeset .admonition a,
+.md-typeset details a {
+  color: #2563eb; /* リンク青 */
+  font-weight: 600;
+}
+
+.md-typeset .admonition a:hover,
+.md-typeset details a:hover {
+  color: #1d4ed8;
+  text-decoration: underline;
 }
 
 /* コードブロックの角を丸くする */
