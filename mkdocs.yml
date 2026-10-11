@@ -8,6 +8,7 @@ nav:
     - 'univariate-descriptive-statistics.md'
     - 'bivariate-descriptive-statistics.md'
     - 'truncation-effect.md'
+    - '独立と排反の実務活用': 'independence-mutual-exclusivity-in-operations.md'
 
 theme:
   name: material
