@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-19T22:59:16.250891</dc:date>
+    <dc:date>2026-10-19T23:08:38.269565</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -42,16 +42,16 @@ z
      <g id="line2d_1">
       <path d="M 45.04 331.6 
 L 45.04 56.963086 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_2">
       <defs>
-       <path id="m07f04e9dda" d="M 0 0 
+       <path id="m585783efdb" d="M 0 0 
 L 0 3.5 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m07f04e9dda" x="45.04" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m585783efdb" x="45.04" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -88,11 +88,11 @@ z
      <g id="line2d_3">
       <path d="M 126.523636 331.6 
 L 126.523636 56.963086 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m07f04e9dda" x="126.523636" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m585783efdb" x="126.523636" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -130,11 +130,11 @@ z
      <g id="line2d_5">
       <path d="M 208.007273 331.6 
 L 208.007273 56.963086 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m07f04e9dda" x="208.007273" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m585783efdb" x="208.007273" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
@@ -169,11 +169,11 @@ z
      <g id="line2d_7">
       <path d="M 289.490909 331.6 
 L 289.490909 56.963086 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m07f04e9dda" x="289.490909" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m585783efdb" x="289.490909" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
@@ -217,11 +217,11 @@ z
      <g id="line2d_9">
       <path d="M 370.974545 331.6 
 L 370.974545 56.963086 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m07f04e9dda" x="370.974545" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m585783efdb" x="370.974545" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
@@ -274,11 +274,11 @@ z
      <g id="line2d_11">
       <path d="M 452.458182 331.6 
 L 452.458182 56.963086 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_12">
       <g>
-       <use xlink:href="#m07f04e9dda" x="452.458182" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m585783efdb" x="452.458182" y="331.6" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
@@ -735,16 +735,16 @@ z
      <g id="line2d_13">
       <path d="M 45.04 314.955339 
 L 493.2 314.955339 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_14">
       <defs>
-       <path id="m8b7f39cfe4" d="M 0 0 
+       <path id="m5cccd37acd" d="M 0 0 
 L -3.5 0 
 " style="stroke: #000000; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="314.955339" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="314.955339" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
@@ -758,11 +758,11 @@ L -3.5 0
      <g id="line2d_15">
       <path d="M 45.04 281.666016 
 L 493.2 281.666016 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="281.666016" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="281.666016" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
@@ -776,11 +776,11 @@ L 493.2 281.666016
      <g id="line2d_17">
       <path d="M 45.04 248.376693 
 L 493.2 248.376693 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_18">
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="248.376693" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="248.376693" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
@@ -794,11 +794,11 @@ L 493.2 248.376693
      <g id="line2d_19">
       <path d="M 45.04 215.08737 
 L 493.2 215.08737 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_20">
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="215.08737" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="215.08737" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
@@ -812,11 +812,11 @@ L 493.2 215.08737
      <g id="line2d_21">
       <path d="M 45.04 181.798047 
 L 493.2 181.798047 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_22">
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="181.798047" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="181.798047" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
@@ -830,11 +830,11 @@ L 493.2 181.798047
      <g id="line2d_23">
       <path d="M 45.04 148.508724 
 L 493.2 148.508724 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_24">
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="148.508724" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="148.508724" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_13">
@@ -849,11 +849,11 @@ L 493.2 148.508724
      <g id="line2d_25">
       <path d="M 45.04 115.219401 
 L 493.2 115.219401 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_26">
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="115.219401" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="115.219401" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_14">
@@ -868,11 +868,11 @@ L 493.2 115.219401
      <g id="line2d_27">
       <path d="M 45.04 81.930078 
 L 493.2 81.930078 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 0.8,1.32; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-opacity: 0.5; stroke-width: 0.8"/>
      </g>
      <g id="line2d_28">
       <g>
-       <use xlink:href="#m8b7f39cfe4" x="45.04" y="81.930078" style="stroke: #000000; stroke-width: 0.8"/>
+       <use xlink:href="#m5cccd37acd" x="45.04" y="81.930078" style="stroke: #000000; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_15">
@@ -1074,7 +1074,7 @@ L 460.483085 274.299263
 L 464.598421 275.937745 
 L 468.713756 277.576228 
 L 472.829091 279.214711 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-width: 1.8"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #e53e3e; stroke-opacity: 0.45; stroke-width: 1.8"/>
    </g>
    <g id="patch_3">
     <path d="M 45.04 331.6 
@@ -1197,7 +1197,7 @@ L 251.465212 97.820182
 L 253.27596 97.095214 
 L 255.086707 96.370247 
 L 256.897455 95.645279 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke: #2b6cb0; stroke-width: 2.4; stroke-linecap: square"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke: #2b6cb0; stroke-width: 2.4; stroke-linecap: square"/>
    </g>
    <g id="line2d_31">
     <path d="M 281.342545 300.574351 
@@ -1300,7 +1300,7 @@ L 455.174303 230.977473
 L 456.985051 230.252506 
 L 458.795798 229.527538 
 L 460.606545 228.802571 
-" clip-path="url(#p76c06be599)" style="fill: none; stroke: #dd6b20; stroke-width: 2.4; stroke-linecap: square"/>
+" clip-path="url(#pe59fbbdb7c)" style="fill: none; stroke: #dd6b20; stroke-width: 2.4; stroke-linecap: square"/>
    </g>
    <g id="text_17">
     <g id="patch_7">
@@ -1645,112 +1645,356 @@ z
      <use xlink:href="#Meiryo-Bold-abe" transform="translate(1246.734375 0)"/>
      <use xlink:href="#Meiryo-Bold-ad8" transform="translate(1346.734375 0)"/>
     </g>
-    <!-- （広告増 → 売上増） -->
-    <g style="fill: #2b6cb0" transform="translate(123.777173 90.252409) scale(0.09 -0.09)">
+    <!-- （タイプ内の相関は右上がり） -->
+    <g style="fill: #2b6cb0" transform="translate(104.265455 90.252409) scale(0.09 -0.09)">
      <defs>
-      <path id="Meiryo-Bold-a5c" d="M 6041 2438 
-L 2216 2438 
-L 2216 4772 
-L 2909 4772 
-L 2694 5228 
-L 3481 5425 
-L 3784 4772 
-L 4463 4772 
-L 4825 5444 
-L 5625 5209 
-L 5347 4772 
-L 6041 4772 
-L 6041 2438 
+      <path id="Meiryo-Bold-9d4" d="M 5953 350 
+Q 5953 88 5715 -93 
+Q 5478 -275 5172 -275 
+L 4275 -275 
+L 4141 538 
+L 4909 538 
+Q 5081 538 5081 691 
+L 5081 1688 
+L 4703 1163 
+Q 3716 1709 3238 2688 
+Q 2763 1653 1556 1094 
+L 1300 1538 
+L 1300 -322 
+L 422 -322 
+L 422 4306 
+L 2725 4306 
+L 2725 5309 
+L 3616 5309 
+L 3616 4306 
+L 5953 4306 
+L 5953 350 
 z
-M 4494 4178 
-L 4494 3850 
-L 5241 3850 
-L 5241 4178 
-L 4494 4178 
+M 2684 3634 
+L 1300 3634 
+L 1300 1806 
+Q 1872 2103 2236 2597 
+Q 2600 3091 2684 3634 
 z
-M 3738 3850 
-L 3738 4178 
-L 3009 4178 
-L 3009 3850 
-L 3738 3850 
-z
-M 4494 3397 
-L 4494 3044 
-L 5241 3044 
-L 5241 3397 
-L 4494 3397 
-z
-M 3738 3044 
-L 3738 3397 
-L 3009 3397 
-L 3009 3044 
-L 3738 3044 
-z
-M 2188 1016 
-Q 1925 884 206 416 
-L 50 1191 
-Q 375 1253 763 1338 
-L 763 3359 
-L 191 3359 
-L 191 4013 
-L 763 4013 
-L 763 5309 
-L 1600 5309 
-L 1600 4013 
-L 2041 4013 
-L 2041 3359 
-L 1600 3359 
-L 1600 1541 
-Q 1931 1628 2144 1700 
-L 2188 1016 
-z
-M 4978 -122 
-L 3225 -122 
-L 3225 -322 
-L 2400 -322 
-L 2400 2188 
-L 5819 2188 
-L 5819 -322 
-L 4978 -322 
-L 4978 -122 
-z
-M 4978 1278 
-L 4978 1625 
-L 3225 1625 
-L 3225 1278 
-L 4978 1278 
-z
-M 3225 453 
-L 4978 453 
-L 4978 800 
-L 3225 800 
-L 3225 453 
+M 5081 1906 
+L 5081 3634 
+L 3653 3634 
+Q 3800 3159 4172 2681 
+Q 4544 2203 5081 1906 
 z
 " transform="scale(0.015625)"/>
-      <path id="Meiryo-Bold-680" d="M 6281 2391 
-L 4597 831 
-L 3906 831 
-L 5303 2128 
-L 119 2128 
-L 119 2622 
-L 5303 2622 
-L 3906 3922 
-L 4597 3922 
-L 6281 2391 
+      <path id="Meiryo-Bold-92d" d="M 3028 -288 
+L 2797 494 
+Q 4038 631 4663 1065 
+Q 5288 1500 5288 2363 
+Q 5288 3084 4838 3520 
+Q 4388 3956 3591 4031 
+Q 3525 2281 2936 1195 
+Q 2347 109 1453 109 
+Q 872 109 512 657 
+Q 153 1206 153 1913 
+L 153 1991 
+Q 153 3072 1023 3905 
+Q 1894 4738 3219 4800 
+L 3347 4800 
+Q 4613 4800 5427 4158 
+Q 6241 3516 6241 2413 
+Q 6241 1203 5420 518 
+Q 4600 -166 3028 -288 
+z
+M 2713 3941 
+Q 2009 3775 1517 3203 
+Q 1025 2631 1025 1941 
+Q 1025 1584 1147 1284 
+Q 1269 984 1488 984 
+Q 1928 984 2287 1840 
+Q 2647 2697 2713 3941 
+z
+" transform="scale(0.015625)"/>
+      <path id="Meiryo-Bold-9fc" d="M 1153 1753 
+Q 891 1269 550 831 
+L 19 1338 
+Q 316 1716 614 2320 
+Q 913 2925 1069 3463 
+L 294 3463 
+L 294 4141 
+L 1153 4141 
+L 1153 5316 
+L 1978 5316 
+L 1978 4141 
+L 2591 4141 
+L 2591 3463 
+L 1978 3463 
+L 1978 3072 
+Q 2278 2672 2731 2353 
+L 2328 1681 
+Q 2125 1872 1978 2022 
+L 1978 -353 
+L 1153 -353 
+L 1153 1753 
+z
+M 5050 -6 
+L 3634 -6 
+L 3634 -291 
+L 2778 -291 
+L 2778 5113 
+L 5913 5113 
+L 5913 -291 
+L 5050 -291 
+L 5050 -6 
+z
+M 5050 3641 
+L 5050 4409 
+L 3634 4409 
+L 3634 3641 
+L 5050 3641 
+z
+M 3634 2206 
+L 5050 2206 
+L 5050 2975 
+L 3634 2975 
+L 3634 2206 
+z
+M 3634 678 
+L 5050 678 
+L 5050 1541 
+L 3634 1541 
+L 3634 678 
+z
+" transform="scale(0.015625)"/>
+      <path id="Meiryo-Bold-9dd" d="M 2913 3263 
+L 1228 3263 
+L 1228 -359 
+L 403 -359 
+L 403 5209 
+L 2913 5209 
+L 2913 3263 
+z
+M 2144 4397 
+L 2144 4728 
+L 1228 4728 
+L 1228 4397 
+L 2144 4397 
+z
+M 2144 3703 
+L 2144 4031 
+L 1228 4031 
+L 1228 3703 
+L 2144 3703 
+z
+M 3181 806 
+Q 2741 81 1656 -134 
+L 1422 447 
+Q 2228 631 2575 1144 
+L 1466 1144 
+L 1466 1713 
+L 2778 1713 
+L 2781 2047 
+L 1581 2047 
+L 1581 2597 
+L 2178 2597 
+L 1978 3000 
+L 2656 3166 
+L 2913 2597 
+L 3434 2597 
+L 3725 3172 
+L 4428 3006 
+L 4159 2597 
+L 4781 2597 
+L 4781 2047 
+L 3503 2047 
+L 3506 1713 
+L 4884 1713 
+L 4884 1144 
+L 3784 1144 
+Q 4097 750 4756 484 
+L 4706 409 
+L 4947 409 
+Q 5022 409 5084 461 
+Q 5147 513 5147 588 
+L 5147 3263 
+L 3406 3263 
+L 3406 5209 
+L 5966 5209 
+L 5966 269 
+Q 5966 25 5761 -139 
+Q 5556 -303 5269 -303 
+L 4616 -303 
+L 4556 188 
+L 4359 -109 
+Q 3619 175 3181 806 
+z
+M 4184 4397 
+L 5147 4397 
+L 5147 4728 
+L 4184 4728 
+L 4184 4397 
+z
+M 5147 4031 
+L 4184 4031 
+L 4184 3703 
+L 5147 3703 
+L 5147 4031 
+z
+" transform="scale(0.015625)"/>
+      <path id="Meiryo-Bold-92e" d="M 6372 691 
+L 5866 -25 
+Q 5403 403 4963 675 
+Q 4931 213 4632 -28 
+Q 4334 -269 3525 -269 
+Q 2941 -269 2541 14 
+Q 2141 297 2141 781 
+Q 2141 1266 2544 1570 
+Q 2947 1875 3497 1875 
+Q 3741 1875 4075 1838 
+L 4075 3234 
+L 2047 3234 
+L 2047 4009 
+L 4075 4009 
+L 4075 5144 
+L 4969 5144 
+L 4969 4009 
+L 6134 4009 
+L 6134 3234 
+L 4969 3234 
+L 4969 1569 
+Q 5647 1278 6372 691 
+z
+M 4075 869 
+L 4075 1088 
+Q 3828 1184 3497 1184 
+Q 3294 1184 3133 1082 
+Q 2972 981 2972 819 
+Q 2972 656 3137 564 
+Q 3303 472 3525 472 
+Q 4075 472 4075 869 
+z
+M 1731 4966 
+Q 1347 3575 1347 2556 
+Q 1347 1225 1706 -72 
+L 828 -250 
+Q 484 1072 484 2334 
+Q 484 3634 850 5088 
+L 1731 4966 
+z
+" transform="scale(0.015625)"/>
+      <path id="Meiryo-Bold-c15" d="M 4872 13 
+L 2522 13 
+L 2522 -297 
+L 1631 -297 
+L 1631 1578 
+Q 1150 1013 603 631 
+L 63 1222 
+Q 1313 2213 1894 3525 
+L 366 3525 
+L 366 4281 
+L 2159 4281 
+Q 2272 4706 2328 5325 
+L 3250 5272 
+Q 3194 4684 3103 4281 
+L 6125 4281 
+L 6125 3525 
+L 2872 3525 
+Q 2716 3116 2494 2725 
+L 5778 2725 
+L 5778 -303 
+L 4872 -303 
+L 4872 13 
+z
+M 2522 734 
+L 4872 734 
+L 4872 2016 
+L 2522 2016 
+L 2522 734 
+z
+" transform="scale(0.015625)"/>
+      <path id="Meiryo-Bold-90b" d="M 2388 4500 
+Q 2388 4297 2372 4019 
+L 3175 4019 
+Q 3709 4019 4031 3672 
+Q 4353 3325 4353 2775 
+Q 4353 1406 4037 550 
+Q 3722 -306 2963 -306 
+Q 2750 -306 2504 -234 
+Q 2259 -163 1709 159 
+L 1997 903 
+Q 2588 575 2850 575 
+Q 2972 575 3059 665 
+Q 3147 756 3247 1053 
+Q 3347 1350 3394 1715 
+Q 3441 2081 3441 2541 
+Q 3441 2856 3400 2984 
+Q 3359 3113 3265 3175 
+Q 3172 3238 3028 3238 
+L 2306 3238 
+Q 2003 1006 728 -378 
+L 25 63 
+Q 375 456 789 1303 
+Q 1203 2150 1363 3238 
+L 225 3238 
+L 225 4019 
+L 1466 4019 
+L 1472 5228 
+L 2388 5228 
+L 2388 4500 
+z
+M 6253 1803 
+L 5397 1563 
+Q 5141 2438 4848 3014 
+Q 4556 3591 4103 4166 
+L 4813 4581 
+Q 5994 3050 6253 1803 
+z
+M 6375 4516 
+L 5941 4350 
+Q 5734 4863 5509 5309 
+L 5925 5469 
+Q 6181 4978 6375 4516 
+z
+M 5519 4447 
+L 5066 4275 
+Q 4806 4919 4641 5234 
+L 5072 5406 
+Q 5347 4878 5519 4447 
+z
+" transform="scale(0.015625)"/>
+      <path id="Meiryo-Bold-949" d="M 2125 -456 
+L 1953 319 
+Q 3506 500 4061 956 
+Q 4616 1413 4616 2409 
+Q 4616 4153 3822 4153 
+Q 3400 4153 2958 3892 
+Q 2516 3631 2223 3014 
+Q 1931 2397 1931 1722 
+Q 1931 1522 1959 1306 
+L 1131 1253 
+Q 988 2069 988 3016 
+Q 988 4175 1203 5294 
+L 2100 5216 
+Q 2006 4725 1844 3741 
+Q 2066 4209 2628 4584 
+Q 3191 4959 3847 4959 
+Q 4678 4959 5111 4300 
+Q 5544 3641 5544 2497 
+Q 5544 1031 4686 353 
+Q 3828 -325 2125 -456 
 z
 " transform="scale(0.015625)"/>
      </defs>
      <use xlink:href="#Meiryo-Bold-642"/>
-     <use xlink:href="#Meiryo-Bold-a81" transform="translate(100 0)"/>
-     <use xlink:href="#Meiryo-Bold-a94" transform="translate(200 0)"/>
-     <use xlink:href="#Meiryo-Bold-a5c" transform="translate(300 0)"/>
-     <use xlink:href="#Meiryo-Bold-3" transform="translate(400 0)"/>
-     <use xlink:href="#Meiryo-Bold-680" transform="translate(433.203125 0)"/>
-     <use xlink:href="#Meiryo-Bold-3" transform="translate(533.203125 0)"/>
-     <use xlink:href="#Meiryo-Bold-a33" transform="translate(566.40625 0)"/>
-     <use xlink:href="#Meiryo-Bold-9b1" transform="translate(666.40625 0)"/>
-     <use xlink:href="#Meiryo-Bold-a5c" transform="translate(766.40625 0)"/>
-     <use xlink:href="#Meiryo-Bold-643" transform="translate(866.40625 0)"/>
+     <use xlink:href="#Meiryo-Bold-971" transform="translate(100 0)"/>
+     <use xlink:href="#Meiryo-Bold-956" transform="translate(200 0)"/>
+     <use xlink:href="#Meiryo-Bold-989" transform="translate(300 0)"/>
+     <use xlink:href="#Meiryo-Bold-9d4" transform="translate(400 0)"/>
+     <use xlink:href="#Meiryo-Bold-92d" transform="translate(500 0)"/>
+     <use xlink:href="#Meiryo-Bold-9fc" transform="translate(600 0)"/>
+     <use xlink:href="#Meiryo-Bold-9dd" transform="translate(700 0)"/>
+     <use xlink:href="#Meiryo-Bold-92e" transform="translate(800 0)"/>
+     <use xlink:href="#Meiryo-Bold-c15" transform="translate(900 0)"/>
+     <use xlink:href="#Meiryo-Bold-9b1" transform="translate(1000 0)"/>
+     <use xlink:href="#Meiryo-Bold-90b" transform="translate(1100 0)"/>
+     <use xlink:href="#Meiryo-Bold-949" transform="translate(1200 0)"/>
+     <use xlink:href="#Meiryo-Bold-643" transform="translate(1300 0)"/>
     </g>
    </g>
    <g id="text_18">
@@ -1923,19 +2167,22 @@ z
      <use xlink:href="#Meiryo-Bold-abe" transform="translate(1246.71875 0)"/>
      <use xlink:href="#Meiryo-Bold-a57" transform="translate(1346.71875 0)"/>
     </g>
-    <!-- （広告増 → 売上増） -->
-    <g style="fill: #dd6b20" transform="translate(327.486264 223.409701) scale(0.09 -0.09)">
+    <!-- （タイプ内の相関は右上がり） -->
+    <g style="fill: #dd6b20" transform="translate(307.974545 223.409701) scale(0.09 -0.09)">
      <use xlink:href="#Meiryo-Bold-642"/>
-     <use xlink:href="#Meiryo-Bold-a81" transform="translate(100 0)"/>
-     <use xlink:href="#Meiryo-Bold-a94" transform="translate(200 0)"/>
-     <use xlink:href="#Meiryo-Bold-a5c" transform="translate(300 0)"/>
-     <use xlink:href="#Meiryo-Bold-3" transform="translate(400 0)"/>
-     <use xlink:href="#Meiryo-Bold-680" transform="translate(433.203125 0)"/>
-     <use xlink:href="#Meiryo-Bold-3" transform="translate(533.203125 0)"/>
-     <use xlink:href="#Meiryo-Bold-a33" transform="translate(566.40625 0)"/>
-     <use xlink:href="#Meiryo-Bold-9b1" transform="translate(666.40625 0)"/>
-     <use xlink:href="#Meiryo-Bold-a5c" transform="translate(766.40625 0)"/>
-     <use xlink:href="#Meiryo-Bold-643" transform="translate(866.40625 0)"/>
+     <use xlink:href="#Meiryo-Bold-971" transform="translate(100 0)"/>
+     <use xlink:href="#Meiryo-Bold-956" transform="translate(200 0)"/>
+     <use xlink:href="#Meiryo-Bold-989" transform="translate(300 0)"/>
+     <use xlink:href="#Meiryo-Bold-9d4" transform="translate(400 0)"/>
+     <use xlink:href="#Meiryo-Bold-92d" transform="translate(500 0)"/>
+     <use xlink:href="#Meiryo-Bold-9fc" transform="translate(600 0)"/>
+     <use xlink:href="#Meiryo-Bold-9dd" transform="translate(700 0)"/>
+     <use xlink:href="#Meiryo-Bold-92e" transform="translate(800 0)"/>
+     <use xlink:href="#Meiryo-Bold-c15" transform="translate(900 0)"/>
+     <use xlink:href="#Meiryo-Bold-9b1" transform="translate(1000 0)"/>
+     <use xlink:href="#Meiryo-Bold-90b" transform="translate(1100 0)"/>
+     <use xlink:href="#Meiryo-Bold-949" transform="translate(1200 0)"/>
+     <use xlink:href="#Meiryo-Bold-643" transform="translate(1300 0)"/>
     </g>
    </g>
    <g id="text_19">
@@ -3031,34 +3278,6 @@ L 4813 5266
 Q 5059 4791 5253 4306 
 z
 " transform="scale(0.015625)"/>
-      <path id="Meiryo-Bold-92d" d="M 3028 -288 
-L 2797 494 
-Q 4038 631 4663 1065 
-Q 5288 1500 5288 2363 
-Q 5288 3084 4838 3520 
-Q 4388 3956 3591 4031 
-Q 3525 2281 2936 1195 
-Q 2347 109 1453 109 
-Q 872 109 512 657 
-Q 153 1206 153 1913 
-L 153 1991 
-Q 153 3072 1023 3905 
-Q 1894 4738 3219 4800 
-L 3347 4800 
-Q 4613 4800 5427 4158 
-Q 6241 3516 6241 2413 
-Q 6241 1203 5420 518 
-Q 4600 -166 3028 -288 
-z
-M 2713 3941 
-Q 2009 3775 1517 3203 
-Q 1025 2631 1025 1941 
-Q 1025 1584 1147 1284 
-Q 1269 984 1488 984 
-Q 1928 984 2287 1840 
-Q 2647 2697 2713 3941 
-z
-" transform="scale(0.015625)"/>
       <path id="Meiryo-Bold-926" d="M 5328 544 
 L 5284 -300 
 Q 4944 -309 4831 -309 
@@ -3118,56 +3337,6 @@ L 2797 3578
 L 2628 2806 
 L 4441 2806 
 L 4441 2041 
-z
-" transform="scale(0.015625)"/>
-      <path id="Meiryo-Bold-90b" d="M 2388 4500 
-Q 2388 4297 2372 4019 
-L 3175 4019 
-Q 3709 4019 4031 3672 
-Q 4353 3325 4353 2775 
-Q 4353 1406 4037 550 
-Q 3722 -306 2963 -306 
-Q 2750 -306 2504 -234 
-Q 2259 -163 1709 159 
-L 1997 903 
-Q 2588 575 2850 575 
-Q 2972 575 3059 665 
-Q 3147 756 3247 1053 
-Q 3347 1350 3394 1715 
-Q 3441 2081 3441 2541 
-Q 3441 2856 3400 2984 
-Q 3359 3113 3265 3175 
-Q 3172 3238 3028 3238 
-L 2306 3238 
-Q 2003 1006 728 -378 
-L 25 63 
-Q 375 456 789 1303 
-Q 1203 2150 1363 3238 
-L 225 3238 
-L 225 4019 
-L 1466 4019 
-L 1472 5228 
-L 2388 5228 
-L 2388 4500 
-z
-M 6253 1803 
-L 5397 1563 
-Q 5141 2438 4848 3014 
-Q 4556 3591 4103 4166 
-L 4813 4581 
-Q 5994 3050 6253 1803 
-z
-M 6375 4516 
-L 5941 4350 
-Q 5734 4863 5509 5309 
-L 5925 5469 
-Q 6181 4978 6375 4516 
-z
-M 5519 4447 
-L 5066 4275 
-Q 4806 4919 4641 5234 
-L 5072 5406 
-Q 5347 4878 5519 4447 
 z
 " transform="scale(0.015625)"/>
       <path id="Meiryo-Bold-903" d="M 3541 1791 
@@ -3277,7 +3446,7 @@ z
    </g>
    <g id="PathCollection_1">
     <defs>
-     <path id="mfdb18e656e" d="M 0 5.244044 
+     <path id="mfc6f529b30" d="M 0 5.244044 
 C 1.390737 5.244044 2.7247 4.691499 3.708099 3.708099 
 C 4.691499 2.7247 5.244044 1.390737 5.244044 0 
 C 5.244044 -1.390737 4.691499 -2.7247 3.708099 -3.708099 
@@ -3289,54 +3458,54 @@ C -2.7247 4.691499 -1.390737 5.244044 0 5.244044
 z
 " style="stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
     </defs>
-    <g clip-path="url(#p76c06be599)">
-     <use xlink:href="#mfdb18e656e" x="85.781818" y="165.153385" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#mfdb18e656e" x="126.523636" y="145.179792" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#mfdb18e656e" x="167.265455" y="135.192995" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#mfdb18e656e" x="208.007273" y="111.890469" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#mfdb18e656e" x="248.749091" y="100.239206" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
+    <g clip-path="url(#pe59fbbdb7c)">
+     <use xlink:href="#mfc6f529b30" x="85.781818" y="165.153385" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mfc6f529b30" x="126.523636" y="145.179792" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mfc6f529b30" x="167.265455" y="135.192995" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mfc6f529b30" x="208.007273" y="111.890469" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mfc6f529b30" x="248.749091" y="100.239206" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
     </g>
    </g>
    <g id="PathCollection_2">
     <defs>
-     <path id="m0450db8309" d="M -5 5 
+     <path id="mb5ee3bc97e" d="M -5 5 
 L 5 5 
 L 5 -5 
 L -5 -5 
 z
 " style="stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
     </defs>
-    <g clip-path="url(#p76c06be599)">
-     <use xlink:href="#m0450db8309" x="289.490909" y="298.310677" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#m0450db8309" x="330.232727" y="278.337083" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#m0450db8309" x="370.974545" y="268.350286" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#m0450db8309" x="411.716364" y="245.04776" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
-     <use xlink:href="#m0450db8309" x="452.458182" y="233.396497" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
+    <g clip-path="url(#pe59fbbdb7c)">
+     <use xlink:href="#mb5ee3bc97e" x="289.490909" y="298.310677" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mb5ee3bc97e" x="330.232727" y="278.337083" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mb5ee3bc97e" x="370.974545" y="268.350286" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mb5ee3bc97e" x="411.716364" y="245.04776" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
+     <use xlink:href="#mb5ee3bc97e" x="452.458182" y="233.396497" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
     </g>
    </g>
    <g id="legend_1">
     <g id="patch_9">
-     <path d="M 353.860234 109.636504 
+     <path d="M 334.508437 109.636504 
 L 486.55 109.636504 
 Q 488.45 109.636504 488.45 107.736504 
 L 488.45 63.613086 
 Q 488.45 61.713086 486.55 61.713086 
-L 353.860234 61.713086 
-Q 351.960234 61.713086 351.960234 63.613086 
-L 351.960234 107.736504 
-Q 351.960234 109.636504 353.860234 109.636504 
+L 334.508437 61.713086 
+Q 332.608437 61.713086 332.608437 63.613086 
+L 332.608437 107.736504 
+Q 332.608437 109.636504 334.508437 109.636504 
 z
 " style="fill: #ffffff; opacity: 0.95; stroke: #cccccc; stroke-linejoin: miter"/>
     </g>
     <g id="line2d_32">
-     <path d="M 355.760234 70.528418 
-L 365.260234 70.528418 
-L 374.760234 70.528418 
-" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #cbd5e0; stroke-width: 1.8"/>
+     <path d="M 336.408437 70.528418 
+L 345.908437 70.528418 
+L 355.408437 70.528418 
+" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #e53e3e; stroke-opacity: 0.45; stroke-width: 1.8"/>
     </g>
     <g id="text_21">
-     <!-- 全体の傾向 (r = -0.66) -->
-     <g transform="translate(382.360234 73.853418) scale(0.095 -0.095)">
+     <!-- 全体の回帰直線 (r = -0.66) -->
+     <g transform="translate(363.008438 73.853418) scale(0.095 -0.095)">
       <defs>
        <path id="Meiryo-9f8" d="M 6075 2775 
 Q 5391 3063 4553 3686 
@@ -3418,119 +3587,233 @@ Q 4463 3275 5042 2429
 Q 5622 1584 6350 981 
 z
 " transform="scale(0.015625)"/>
-       <path id="Meiryo-d4a" d="M 881 -388 
-L 881 2806 
-Q 613 2278 331 1928 
-L 44 2163 
-Q 459 2719 825 3620 
-Q 1191 4522 1338 5284 
-L 1819 5206 
-Q 1594 4316 1184 3416 
-L 1338 3416 
-L 1338 -388 
-L 881 -388 
+       <path id="Meiryo-9da" d="M 5413 6 
+L 934 6 
+L 934 -334 
+L 472 -334 
+L 472 4972 
+L 5891 4972 
+L 5891 -309 
+L 5413 -309 
+L 5413 6 
 z
-M 3650 794 
-L 3650 4122 
-L 4438 4122 
-L 4603 4763 
-L 3331 4763 
-L 3331 5116 
-L 6241 5116 
-L 6241 4763 
-L 5088 4763 
-L 4844 4122 
-L 5969 4122 
-L 5969 794 
-L 3650 794 
+M 934 384 
+L 5413 384 
+L 5413 4594 
+L 934 4594 
+L 934 384 
 z
-M 5497 3781 
-L 4125 3781 
-L 4125 3138 
-L 5497 3138 
-L 5497 3781 
+M 1888 1297 
+L 1888 3694 
+L 4394 3694 
+L 4394 1297 
+L 1888 1297 
 z
-M 4125 2156 
-L 5497 2156 
-L 5497 2816 
-L 4125 2816 
-L 4125 2156 
-z
-M 5497 1838 
-L 4125 1838 
-L 4125 1144 
-L 5497 1144 
-L 5497 1838 
-z
-M 1847 4716 
-L 2291 4716 
-L 2291 3372 
-Q 2806 3613 3088 3822 
-L 3284 3469 
-Q 2984 3275 2291 2991 
-L 2291 1166 
-Q 2291 1050 2353 1003 
-Q 2416 956 2619 956 
-Q 2684 956 2709 963 
-Q 2781 963 2842 1009 
-Q 2903 1056 2926 1331 
-Q 2950 1606 2950 1797 
-L 3303 1759 
-L 3303 1072 
-Q 3303 834 3162 709 
-Q 3022 584 2594 584 
-Q 2431 584 2225 606 
-Q 2019 628 1933 740 
-Q 1847 853 1847 1066 
-L 1847 4716 
-z
-M 3069 -388 
-L 2872 -69 
-Q 3603 200 4166 675 
-L 4453 375 
-Q 4200 166 3778 -64 
-Q 3356 -294 3069 -388 
-z
-M 6119 -363 
-Q 5569 -128 4981 375 
-L 5250 669 
-Q 5813 216 6366 -9 
-L 6119 -363 
+M 3913 3328 
+L 2366 3328 
+L 2366 1684 
+L 3913 1684 
+L 3913 3328 
 z
 " transform="scale(0.015625)"/>
-       <path id="Meiryo-a31" d="M 5347 -303 
-L 4459 -303 
-L 4406 147 
-L 5131 147 
-Q 5253 147 5339 219 
-Q 5425 291 5425 394 
-L 5425 3947 
-L 988 3947 
-L 988 -344 
-L 497 -344 
-L 497 4344 
-L 2434 4344 
-Q 2678 4922 2756 5284 
-L 3291 5188 
-Q 3131 4747 2938 4344 
-L 5934 4344 
-L 5934 244 
-Q 5934 9 5768 -147 
-Q 5603 -303 5347 -303 
+       <path id="Meiryo-c37" d="M 1006 -403 
+L 678 -194 
+Q 1059 431 1279 1257 
+Q 1500 2084 1500 3541 
+L 1500 5303 
+L 1953 5303 
+L 1953 3781 
+Q 1953 2363 1786 1469 
+Q 1619 575 1006 -403 
 z
-M 2366 903 
-L 2366 663 
-L 1881 663 
-L 1881 3078 
-L 4472 3078 
-L 4472 903 
-L 2366 903 
+M 2663 4056 
+L 2663 4384 
+L 5319 4384 
+L 5319 4828 
+L 2619 4828 
+L 2619 5159 
+L 5784 5159 
+L 5784 3288 
+L 2603 3288 
+L 2603 3613 
+L 5319 3613 
+L 5319 4056 
+L 2663 4056 
 z
-M 3991 2713 
-L 2366 2713 
-L 2366 1297 
-L 3991 1297 
-L 3991 2713 
+M 469 1700 
+L 469 4763 
+L 906 4763 
+L 906 1700 
+L 469 1700 
+z
+M 5263 88 
+L 4741 88 
+L 4675 478 
+L 5019 478 
+Q 5122 478 5189 540 
+Q 5256 603 5256 688 
+L 5256 1581 
+L 4394 1581 
+L 4394 -409 
+L 3916 -409 
+L 3916 1581 
+L 3106 1581 
+L 3106 75 
+L 2638 75 
+L 2638 1922 
+L 3916 1922 
+L 3916 2503 
+L 2663 2503 
+L 2663 1994 
+L 2272 1994 
+L 2272 2834 
+L 6066 2834 
+L 6066 1994 
+L 5653 1994 
+L 5653 2503 
+L 4394 2503 
+L 4394 1922 
+L 5719 1922 
+L 5719 494 
+Q 5719 316 5584 202 
+Q 5450 88 5263 88 
+z
+" transform="scale(0.015625)"/>
+       <path id="Meiryo-a89" d="M 2013 656 
+L 2013 3841 
+L 3081 3841 
+L 3081 4403 
+L 347 4403 
+L 347 4781 
+L 3081 4781 
+L 3081 5256 
+L 3591 5256 
+L 3591 4781 
+L 6053 4781 
+L 6053 4403 
+L 3591 4403 
+L 3591 3841 
+L 5425 3841 
+L 5425 656 
+L 2013 656 
+z
+M 4944 2934 
+L 4944 3481 
+L 2481 3481 
+L 2481 2934 
+L 4944 2934 
+z
+M 2481 1988 
+L 4944 1988 
+L 4944 2600 
+L 2481 2600 
+L 2481 1988 
+z
+M 2481 1022 
+L 4944 1022 
+L 4944 1653 
+L 2481 1653 
+L 2481 1022 
+z
+M 666 -356 
+L 666 3684 
+L 1138 3684 
+L 1138 213 
+L 6091 213 
+L 6091 -166 
+L 1138 -166 
+L 1138 -356 
+L 666 -356 
+z
+" transform="scale(0.015625)"/>
+       <path id="Meiryo-b0d" d="M 4056 -356 
+L 3422 -356 
+L 3375 53 
+L 3847 53 
+Q 4081 53 4081 263 
+L 4081 2631 
+L 2803 2631 
+L 2803 4859 
+L 3903 4859 
+L 4081 5394 
+L 4556 5297 
+L 4341 4859 
+L 5869 4859 
+L 5869 2631 
+L 4566 2631 
+L 4566 2306 
+Q 4691 1947 4956 1541 
+Q 5578 1978 5897 2300 
+L 6228 2019 
+Q 5922 1738 5159 1253 
+Q 5669 578 6341 106 
+L 6034 -219 
+Q 5097 466 4566 1544 
+L 4566 100 
+Q 4566 -100 4419 -228 
+Q 4272 -356 4056 -356 
+z
+M 3241 3900 
+L 5413 3900 
+L 5413 4506 
+L 3241 4506 
+L 3241 3900 
+z
+M 5413 3566 
+L 3241 3566 
+L 3241 2972 
+L 5413 2972 
+L 5413 3566 
+z
+M 1119 -397 
+L 1119 2225 
+L 172 2150 
+L 113 2541 
+L 444 2550 
+Q 681 2844 1009 3294 
+Q 856 3450 131 4153 
+L 406 4428 
+L 522 4319 
+Q 897 4853 1103 5309 
+L 1522 5159 
+Q 1184 4581 791 4056 
+L 1238 3609 
+Q 1688 4253 1881 4644 
+L 2306 4466 
+Q 1722 3541 916 2566 
+Q 1584 2594 2000 2628 
+L 1856 3097 
+L 2234 3200 
+Q 2416 2638 2541 2181 
+L 2156 2078 
+Q 2144 2138 2094 2309 
+Q 1853 2281 1563 2259 
+L 1563 -397 
+L 1119 -397 
+z
+M 2403 -228 
+L 2169 47 
+Q 2675 391 2973 869 
+Q 3272 1347 3338 1778 
+L 2644 1778 
+L 2644 2116 
+L 3741 2116 
+L 3841 2019 
+Q 3775 1366 3367 722 
+Q 2959 78 2403 -228 
+z
+M 2044 653 
+Q 1963 1050 1875 1725 
+L 2241 1778 
+Q 2303 1372 2416 713 
+L 2044 653 
+z
+M 419 100 
+L 66 184 
+Q 322 1075 372 1731 
+L 791 1700 
+Q 738 1306 622 812 
+Q 506 319 419 100 
 z
 " transform="scale(0.015625)"/>
        <path id="Meiryo-3" transform="scale(0.015625)"/>
@@ -3607,30 +3890,32 @@ z
       <use xlink:href="#Meiryo-9f8"/>
       <use xlink:href="#Meiryo-9ec" transform="translate(100 0)"/>
       <use xlink:href="#Meiryo-92d" transform="translate(200 0)"/>
-      <use xlink:href="#Meiryo-d4a" transform="translate(300 0)"/>
-      <use xlink:href="#Meiryo-a31" transform="translate(400 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(500 0)"/>
-      <use xlink:href="#Meiryo-b" transform="translate(533.984375 0)"/>
-      <use xlink:href="#Meiryo-55" transform="translate(577.9375 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(619.25 0)"/>
-      <use xlink:href="#Meiryo-20" transform="translate(653.234375 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(733.609375 0)"/>
-      <use xlink:href="#Meiryo-10" transform="translate(767.59375 0)"/>
-      <use xlink:href="#Meiryo-13" transform="translate(811.546875 0)"/>
-      <use xlink:href="#Meiryo-11" transform="translate(873.65625 0)"/>
-      <use xlink:href="#Meiryo-19" transform="translate(908.5625 0)"/>
-      <use xlink:href="#Meiryo-19" transform="translate(970.671875 0)"/>
-      <use xlink:href="#Meiryo-c" transform="translate(1032.78125 0)"/>
+      <use xlink:href="#Meiryo-9da" transform="translate(300 0)"/>
+      <use xlink:href="#Meiryo-c37" transform="translate(400 0)"/>
+      <use xlink:href="#Meiryo-a89" transform="translate(500 0)"/>
+      <use xlink:href="#Meiryo-b0d" transform="translate(600 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(700 0)"/>
+      <use xlink:href="#Meiryo-b" transform="translate(733.984375 0)"/>
+      <use xlink:href="#Meiryo-55" transform="translate(777.9375 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(819.25 0)"/>
+      <use xlink:href="#Meiryo-20" transform="translate(853.234375 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(933.609375 0)"/>
+      <use xlink:href="#Meiryo-10" transform="translate(967.59375 0)"/>
+      <use xlink:href="#Meiryo-13" transform="translate(1011.546875 0)"/>
+      <use xlink:href="#Meiryo-11" transform="translate(1073.65625 0)"/>
+      <use xlink:href="#Meiryo-19" transform="translate(1108.5625 0)"/>
+      <use xlink:href="#Meiryo-19" transform="translate(1170.671875 0)"/>
+      <use xlink:href="#Meiryo-c" transform="translate(1232.78125 0)"/>
      </g>
     </g>
     <g id="PathCollection_3">
      <g>
-      <use xlink:href="#mfdb18e656e" x="365.260234" y="86.384141" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
+      <use xlink:href="#mfc6f529b30" x="345.908437" y="86.384141" style="fill: #2b6cb0; fill-opacity: 0.9; stroke: #1a365d; stroke-opacity: 0.9; stroke-width: 1.2"/>
      </g>
     </g>
     <g id="text_22">
-     <!-- タイプA (r = +0.99) -->
-     <g transform="translate(382.360234 88.877891) scale(0.095 -0.095)">
+     <!-- タイプA：丸 (r = +0.99) -->
+     <g transform="translate(363.008438 88.877891) scale(0.095 -0.095)">
       <defs>
        <path id="Meiryo-956" d="M 3994 -300 
 L 3438 -300 
@@ -3690,6 +3975,59 @@ L 4281 0
 L 3659 0 
 z
 " transform="scale(0.015625)"/>
+       <path id="Meiryo-61f" d="M 3553 2678 
+L 2844 2678 
+L 2844 3531 
+L 3553 3531 
+L 3553 2678 
+z
+M 3553 0 
+L 2844 0 
+L 2844 853 
+L 3553 853 
+L 3553 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Meiryo-bc0" d="M 2350 1584 
+Q 1822 328 453 -394 
+L 203 -69 
+Q 1478 625 1934 1903 
+Q 1184 2469 791 2713 
+L 1072 3044 
+Q 1406 2834 2069 2356 
+Q 2206 2950 2206 3709 
+L 2206 3725 
+L 459 3725 
+L 459 4122 
+L 2206 4122 
+L 2206 5266 
+L 2697 5266 
+L 2697 4122 
+L 4694 4122 
+L 4694 369 
+Q 4694 266 4747 202 
+Q 4800 138 4884 122 
+Q 4969 106 5228 106 
+Q 5428 106 5511 126 
+Q 5594 147 5655 223 
+Q 5716 300 5747 517 
+Q 5778 734 5778 1263 
+L 6209 1209 
+L 6209 278 
+Q 6209 59 6114 -77 
+Q 6019 -213 5839 -267 
+Q 5659 -322 5238 -322 
+Q 4919 -322 4684 -300 
+Q 4450 -278 4328 -132 
+Q 4206 13 4206 284 
+L 4206 3725 
+L 2697 3725 
+Q 2684 2666 2509 2038 
+Q 3253 1488 3525 1244 
+L 3181 884 
+Q 2909 1147 2350 1584 
+z
+" transform="scale(0.015625)"/>
        <path id="Meiryo-e" d="M 4534 1828 
 L 2813 1828 
 L 2813 106 
@@ -3737,28 +4075,30 @@ z
       <use xlink:href="#Meiryo-956" transform="translate(100 0)"/>
       <use xlink:href="#Meiryo-989" transform="translate(200 0)"/>
       <use xlink:href="#Meiryo-24" transform="translate(300 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(367.78125 0)"/>
-      <use xlink:href="#Meiryo-b" transform="translate(401.765625 0)"/>
-      <use xlink:href="#Meiryo-55" transform="translate(445.71875 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(487.03125 0)"/>
-      <use xlink:href="#Meiryo-20" transform="translate(521.015625 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(601.390625 0)"/>
-      <use xlink:href="#Meiryo-e" transform="translate(635.375 0)"/>
-      <use xlink:href="#Meiryo-13" transform="translate(715.75 0)"/>
-      <use xlink:href="#Meiryo-11" transform="translate(777.859375 0)"/>
-      <use xlink:href="#Meiryo-1c" transform="translate(812.765625 0)"/>
-      <use xlink:href="#Meiryo-1c" transform="translate(874.875 0)"/>
-      <use xlink:href="#Meiryo-c" transform="translate(936.984375 0)"/>
+      <use xlink:href="#Meiryo-61f" transform="translate(367.78125 0)"/>
+      <use xlink:href="#Meiryo-bc0" transform="translate(467.78125 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(567.78125 0)"/>
+      <use xlink:href="#Meiryo-b" transform="translate(601.765625 0)"/>
+      <use xlink:href="#Meiryo-55" transform="translate(645.71875 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(687.03125 0)"/>
+      <use xlink:href="#Meiryo-20" transform="translate(721.015625 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(801.390625 0)"/>
+      <use xlink:href="#Meiryo-e" transform="translate(835.375 0)"/>
+      <use xlink:href="#Meiryo-13" transform="translate(915.75 0)"/>
+      <use xlink:href="#Meiryo-11" transform="translate(977.859375 0)"/>
+      <use xlink:href="#Meiryo-1c" transform="translate(1012.765625 0)"/>
+      <use xlink:href="#Meiryo-1c" transform="translate(1074.875 0)"/>
+      <use xlink:href="#Meiryo-c" transform="translate(1136.984375 0)"/>
      </g>
     </g>
     <g id="PathCollection_4">
      <g>
-      <use xlink:href="#m0450db8309" x="365.260234" y="101.408613" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
+      <use xlink:href="#mb5ee3bc97e" x="345.908437" y="101.408613" style="fill: #dd6b20; fill-opacity: 0.9; stroke: #7b341e; stroke-opacity: 0.9; stroke-width: 1.2"/>
      </g>
     </g>
     <g id="text_23">
-     <!-- タイプB (r = +0.99) -->
-     <g transform="translate(382.360234 103.902363) scale(0.095 -0.095)">
+     <!-- タイプB：四角 (r = +0.99) -->
+     <g transform="translate(363.008438 103.902363) scale(0.095 -0.095)">
       <defs>
        <path id="Meiryo-25" d="M 578 0 
 L 578 4709 
@@ -3796,30 +4136,131 @@ Q 2816 2303 2163 2303
 L 1159 2303 
 z
 " transform="scale(0.015625)"/>
+       <path id="Meiryo-b9b" d="M 5406 19 
+L 953 19 
+L 953 -269 
+L 497 -269 
+L 497 4869 
+L 5869 4869 
+L 5869 -256 
+L 5406 -256 
+L 5406 19 
+z
+M 953 391 
+L 5406 391 
+L 5406 4509 
+L 3828 4509 
+L 3828 2034 
+Q 3828 1906 3897 1856 
+Q 3966 1806 4197 1806 
+Q 4456 1806 4525 1836 
+Q 4594 1866 4630 1922 
+Q 4666 1978 4684 2186 
+Q 4703 2394 4703 2669 
+L 5069 2631 
+L 5069 1919 
+Q 5069 1681 4900 1551 
+Q 4731 1422 4228 1422 
+Q 3634 1422 3498 1575 
+Q 3363 1728 3363 1963 
+L 3363 4509 
+L 2547 4509 
+Q 2547 3478 2431 2945 
+Q 2316 2413 2059 1977 
+Q 1803 1541 1413 1219 
+L 1138 1481 
+Q 1613 1941 1855 2581 
+Q 2097 3222 2097 4444 
+L 2097 4509 
+L 953 4509 
+L 953 391 
+z
+" transform="scale(0.015625)"/>
+       <path id="Meiryo-d13" d="M 5228 1028 
+L 1603 1028 
+Q 1359 106 684 -422 
+L 397 -169 
+Q 916 372 1078 914 
+Q 1241 1456 1241 2053 
+L 1241 3588 
+Q 853 3234 444 2959 
+L 197 3241 
+Q 772 3628 1317 4233 
+Q 1863 4838 2128 5388 
+L 2625 5278 
+Q 2481 5028 2403 4903 
+L 4588 4903 
+L 4731 4747 
+Q 4453 4325 3981 3822 
+L 5725 3822 
+L 5725 178 
+Q 5725 -63 5562 -209 
+Q 5400 -356 5175 -356 
+L 4191 -356 
+L 4131 88 
+L 4953 88 
+Q 5228 88 5228 322 
+L 5228 1028 
+z
+M 1488 3822 
+L 3463 3822 
+Q 3881 4319 3988 4559 
+L 2166 4559 
+Q 1834 4163 1488 3822 
+z
+M 5228 2653 
+L 5228 3450 
+L 3641 3450 
+L 3641 2653 
+L 5228 2653 
+z
+M 3166 3450 
+L 1728 3450 
+L 1728 2653 
+L 3166 2653 
+L 3166 3450 
+z
+M 1681 1406 
+L 3166 1406 
+L 3166 2306 
+L 1728 2306 
+L 1728 2181 
+Q 1728 1734 1681 1406 
+z
+M 3641 1406 
+L 5228 1406 
+L 5228 2306 
+L 3641 2306 
+L 3641 1406 
+z
+" transform="scale(0.015625)"/>
       </defs>
       <use xlink:href="#Meiryo-971"/>
       <use xlink:href="#Meiryo-956" transform="translate(100 0)"/>
       <use xlink:href="#Meiryo-989" transform="translate(200 0)"/>
       <use xlink:href="#Meiryo-25" transform="translate(300 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(367.28125 0)"/>
-      <use xlink:href="#Meiryo-b" transform="translate(401.265625 0)"/>
-      <use xlink:href="#Meiryo-55" transform="translate(445.21875 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(486.53125 0)"/>
-      <use xlink:href="#Meiryo-20" transform="translate(520.515625 0)"/>
-      <use xlink:href="#Meiryo-3" transform="translate(600.890625 0)"/>
-      <use xlink:href="#Meiryo-e" transform="translate(634.875 0)"/>
-      <use xlink:href="#Meiryo-13" transform="translate(715.25 0)"/>
-      <use xlink:href="#Meiryo-11" transform="translate(777.359375 0)"/>
-      <use xlink:href="#Meiryo-1c" transform="translate(812.265625 0)"/>
-      <use xlink:href="#Meiryo-1c" transform="translate(874.375 0)"/>
-      <use xlink:href="#Meiryo-c" transform="translate(936.484375 0)"/>
+      <use xlink:href="#Meiryo-61f" transform="translate(367.28125 0)"/>
+      <use xlink:href="#Meiryo-b9b" transform="translate(467.28125 0)"/>
+      <use xlink:href="#Meiryo-d13" transform="translate(567.28125 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(667.28125 0)"/>
+      <use xlink:href="#Meiryo-b" transform="translate(701.265625 0)"/>
+      <use xlink:href="#Meiryo-55" transform="translate(745.21875 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(786.53125 0)"/>
+      <use xlink:href="#Meiryo-20" transform="translate(820.515625 0)"/>
+      <use xlink:href="#Meiryo-3" transform="translate(900.890625 0)"/>
+      <use xlink:href="#Meiryo-e" transform="translate(934.875 0)"/>
+      <use xlink:href="#Meiryo-13" transform="translate(1015.25 0)"/>
+      <use xlink:href="#Meiryo-11" transform="translate(1077.359375 0)"/>
+      <use xlink:href="#Meiryo-1c" transform="translate(1112.265625 0)"/>
+      <use xlink:href="#Meiryo-1c" transform="translate(1174.375 0)"/>
+      <use xlink:href="#Meiryo-c" transform="translate(1236.484375 0)"/>
      </g>
     </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p76c06be599">
+  <clipPath id="pe59fbbdb7c">
    <rect x="45.04" y="56.963086" width="448.16" height="274.636914"/>
   </clipPath>
  </defs>

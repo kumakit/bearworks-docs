@@ -90,7 +90,12 @@ def create_overall_chart():
     )
 
     # グラフ装飾
-    ax.set_title("図1：全体で見ると（タイプ区別なし）\n広告費が多いほど売上が下がる？", fontsize=13, fontweight="bold", pad=12)
+    ax.set_title(
+        "図1：全体で見ると（タイプ区別なし）\n広告費が多いほど売上が低い？",
+        fontsize=13,
+        fontweight="bold",
+        pad=12,
+    )
     ax.set_xlabel("広告費（架空単位）", fontsize=11, fontweight="bold")
     ax.set_ylabel("売上（架空単位）", fontsize=11, fontweight="bold")
     ax.set_xlim(X_LIM)
@@ -102,11 +107,16 @@ def create_overall_chart():
     ax.text(
         0.05,
         0.10,
-        f"全体相関係数: r = {r_all:.2f}\n（見かけの負の相関：右下がり）",
+        f"全体相関係数: r = {r_all:.2f}\n（全体では負の相関：右下がり）",
         transform=ax.transAxes,
         fontsize=10.5,
         verticalalignment="bottom",
-        bbox=dict(boxstyle="round,pad=0.5", facecolor="#FFF5F5", edgecolor="#FEB2B2", alpha=0.9),
+        bbox=dict(
+            boxstyle="round,pad=0.5",
+            facecolor="#FFF5F5",
+            edgecolor="#FEB2B2",
+            alpha=0.9,
+        ),
     )
 
     # 架空データ注記
@@ -123,24 +133,24 @@ def create_overall_chart():
     ax.legend(loc="upper right", framealpha=0.95, fontsize=10)
     plt.tight_layout()
 
-    fig.savefig(OUTPUT_DIR / "simpsons-overall.png", dpi=200)
     fig.savefig(OUTPUT_DIR / "simpsons-overall.svg")
     plt.close(fig)
-    print("Saved simpsons-overall.png / .svg")
+    print("Saved simpsons-overall.svg")
 
 
 def create_stratified_chart():
     fig, ax = plt.subplots(figsize=(7, 5.2), dpi=200)
 
-    # 全体回帰直線（比較用・控えめな破線）
+    # 全体回帰直線（比較用・控えめな赤破線）
     ax.plot(
         x_line_all,
         np.polyval(p_all, x_line_all),
-        color="#CBD5E0",
+        color=COLOR_OVERALL_LINE,
         linestyle="--",
         linewidth=1.8,
+        alpha=0.45,
         zorder=1,
-        label=f"全体の傾向 (r = {r_all:.2f})",
+        label=f"全体の回帰直線 (r = {r_all:.2f})",
     )
 
     # タイプA
@@ -154,7 +164,7 @@ def create_stratified_chart():
         edgecolor="#1A365D",
         linewidth=1.2,
         zorder=4,
-        label=f"タイプA (r = +{r_a:.2f})",
+        label=f"タイプA：丸 (r = +{r_a:.2f})",
     )
     ax.plot(
         x_line_a,
@@ -176,7 +186,7 @@ def create_stratified_chart():
         edgecolor="#7B341E",
         linewidth=1.2,
         zorder=4,
-        label=f"タイプB (r = +{r_b:.2f})",
+        label=f"タイプB：四角 (r = +{r_b:.2f})",
     )
     ax.plot(
         x_line_b,
@@ -187,30 +197,45 @@ def create_stratified_chart():
         zorder=3,
     )
 
-    # グループごとの説明注釈
+    # グループごとの説明注釈（因果表現を避け、相関・水準を記述）
     ax.text(
         3.0,
         13.5,
-        "タイプA: 売上高水準・広告費少\n（広告増 → 売上増）",
+        "タイプA: 売上高水準・広告費少\n（タイプ内の相関は右上がり）",
         fontsize=9,
         color=COLOR_A,
         fontweight="bold",
         ha="center",
-        bbox=dict(boxstyle="round,pad=0.3", facecolor="#EBF8FF", edgecolor="#BEE3F8", alpha=0.9),
+        bbox=dict(
+            boxstyle="round,pad=0.3",
+            facecolor="#EBF8FF",
+            edgecolor="#BEE3F8",
+            alpha=0.9,
+        ),
     )
     ax.text(
         8.0,
         5.5,
-        "タイプB: 売上低水準・広告費多\n（広告増 → 売上増）",
+        "タイプB: 売上低水準・広告費多\n（タイプ内の相関は右上がり）",
         fontsize=9,
         color=COLOR_B,
         fontweight="bold",
         ha="center",
-        bbox=dict(boxstyle="round,pad=0.3", facecolor="#FFFAF0", edgecolor="#FEEBC8", alpha=0.9),
+        bbox=dict(
+            boxstyle="round,pad=0.3",
+            facecolor="#FFFAF0",
+            edgecolor="#FEEBC8",
+            alpha=0.9,
+        ),
     )
 
     # グラフ装飾
-    ax.set_title("図2：店舗タイプ別に色分けすると\nどのタイプでも広告費が多いほど売上が高い！", fontsize=13, fontweight="bold", pad=12)
+    ax.set_title(
+        "図2：店舗タイプ別に色分けすると\nどのタイプでも広告費が多いほど売上が高い！",
+        fontsize=13,
+        fontweight="bold",
+        pad=12,
+    )
     ax.set_xlabel("広告費（架空単位）", fontsize=11, fontweight="bold")
     ax.set_ylabel("売上（架空単位）", fontsize=11, fontweight="bold")
     ax.set_xlim(X_LIM)
@@ -232,10 +257,9 @@ def create_stratified_chart():
     ax.legend(loc="upper right", framealpha=0.95, fontsize=9.5)
     plt.tight_layout()
 
-    fig.savefig(OUTPUT_DIR / "simpsons-stratified.png", dpi=200)
     fig.savefig(OUTPUT_DIR / "simpsons-stratified.svg")
     plt.close(fig)
-    print("Saved simpsons-stratified.png / .svg")
+    print("Saved simpsons-stratified.svg")
 
 
 if __name__ == "__main__":
