@@ -31,4 +31,5 @@ $$
 
 - [1変数記述統計](univariate-descriptive-statistics.md)
 - [データ選択による相関の変化（切断効果）](truncation-effect.md)
+- [シンプソンのパラドックス（集計構成比による相関・割合の逆転）](simpsons-paradox.md)
 - [統計検定2級 学習用まとめ](statistics_l2.md)

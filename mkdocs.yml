@@ -9,6 +9,7 @@ nav:
           - 2変数記述統計: bivariate-descriptive-statistics.md
       - 分析の落とし穴:
           - 切断効果: truncation-effect.md
+          - シンプソンのパラドックス: simpsons-paradox.md
   - データサイエンス:
       - 統計検定DS発展・勉強メモ: ds_dev.md
   - 実務への応用:
@@ -42,6 +43,7 @@ extra:
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
   - pymdownx.tasklist:
       custom_checkbox: true
       ##clickable_checkbox: true
