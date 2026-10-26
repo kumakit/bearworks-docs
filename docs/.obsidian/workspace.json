@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bivariate-descriptive-statistics.md",
+                "file": "raw/ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ（ライフハッカー・ジャパン） 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bivariate-descriptive-statistics"
+              "title": "ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ（ライフハッカー・ジャパン） 3"
             }
           }
         ]
@@ -185,9 +185,14 @@
   },
   "active": "e66c2ebbe34c5a8b",
   "lastOpenFiles": [
+    "raw/ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ（ライフハッカー・ジャパン） 2.md",
+    "raw/ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ（ライフハッカー・ジャパン） 1.md",
+    "raw/ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ（ライフハッカー・ジャパン）.md",
+    "raw/ChatGPTに「答えを教えないで」と頼んだら、勉強がはかどった。学習モードで使える、コピペOKのプロンプト5つ（ライフハッカー・ジャパン） 3.md",
+    "bivariate-descriptive-statistics.md",
+    "raw",
     "univariate-descriptive-statistics.md",
     "statistics_l2.md",
-    "bivariate-descriptive-statistics.md",
     "index.md",
     "ds_dev.md"
   ]
