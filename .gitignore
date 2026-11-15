@@ -2,3 +2,8 @@
 site/
 .venv/
 __pycache__/
+
+# Obsidian
+**/.obsidian/workspace*.json
+
+
