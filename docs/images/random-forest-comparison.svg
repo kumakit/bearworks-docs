@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="440" viewBox="0 0 860 440" role="img" aria-labelledby="title desc">
+  <title id="title">異なる手書き数字データで、2つのモデルの順位が逆転した例</title>
+  <desc id="desc">Kaggle Digit Recognizerの検証ではランダムフォレスト96.43%、ロジスティック回帰91.74%。scikit-learn digitsの検証ではロジスティック回帰97.22%、ランダムフォレスト96.11%。異なるデータセットなので直接の精度比較はできない。</desc>
+  <style>
+    .base{font-family:Inter,"Noto Sans JP","Hiragino Kaku Gothic ProN",sans-serif}
+    .heading{font-size:23px;font-weight:700;fill:#172554}
+    .sub{font-size:16px;font-weight:700;fill:#1e3a8a}
+    .label{font-size:15px;fill:#334155}
+    .axis{font-size:12px;fill:#64748b}
+    .value{font-size:16px;font-weight:700;fill:#0f172a}
+    .note{font-size:12px;fill:#475569}
+  </style>
+  <rect width="860" height="440" rx="14" fill="#ffffff"/>
+  <text class="base heading" x="36" y="41">同じ手法でも、データによって結果は変わる</text>
+  <rect x="22" y="63" width="816" height="156" rx="10" fill="#eff6ff"/>
+  <rect x="22" y="236" width="816" height="156" rx="10" fill="#f8fafc"/>
+  <text class="base sub" x="40" y="92">① Kaggle Digit Recognizer（28×28画像・検証8,400件）</text>
+  <text class="base sub" x="40" y="265">② scikit-learn digits（8×8画像・検証360件）</text>
+  <g stroke="#cbd5e1" stroke-dasharray="3 4">
+    <line x1="355" y1="108" x2="355" y2="205"/><line x1="530" y1="108" x2="530" y2="205"/><line x1="705" y1="108" x2="705" y2="205"/>
+    <line x1="355" y1="280" x2="355" y2="379"/><line x1="530" y1="280" x2="530" y2="379"/><line x1="705" y1="280" x2="705" y2="379"/>
+  </g>
+  <g class="base axis" text-anchor="middle">
+    <text x="355" y="204">90%</text><text x="530" y="204">95%</text><text x="705" y="204">100%</text>
+    <text x="355" y="378">90%</text><text x="530" y="378">95%</text><text x="705" y="378">100%</text>
+  </g>
+  <g class="base label">
+    <text x="41" y="143">ロジスティック回帰</text><text x="41" y="179">ランダムフォレスト</text>
+    <text x="41" y="316">ロジスティック回帰</text><text x="41" y="352">ランダムフォレスト</text>
+  </g>
+  <g stroke-width="7" stroke-linecap="round">
+    <line x1="355" y1="137" x2="415.9" y2="137" stroke="#2563eb"/>
+    <line x1="355" y1="173" x2="580.05" y2="173" stroke="#f97316"/>
+    <line x1="355" y1="310" x2="607.7" y2="310" stroke="#2563eb"/>
+    <line x1="355" y1="346" x2="568.85" y2="346" stroke="#f97316"/>
+  </g>
+  <g>
+    <circle cx="415.9" cy="137" r="8" fill="#1d4ed8"/>
+    <circle cx="580.05" cy="173" r="8" fill="#ea580c"/>
+    <circle cx="607.7" cy="310" r="8" fill="#1d4ed8"/>
+    <circle cx="568.85" cy="346" r="8" fill="#ea580c"/>
+  </g>
+  <g class="base value">
+    <text x="722" y="143">91.74%</text><text x="722" y="179">96.43%</text>
+    <text x="722" y="316">97.22%</text><text x="722" y="352">96.11%</text>
+  </g>
+  <text class="base note" x="40" y="420">※ 横軸は90〜100%の拡大表示。データ・解像度・前処理が異なるため、①と②のスコアは直接比較しません。</text>
+</svg>
