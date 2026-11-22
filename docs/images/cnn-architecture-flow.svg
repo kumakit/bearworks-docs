@@ -58,5 +58,5 @@
 <text x="170" y="957" font-size="23" font-weight="bold" fill="#1e293b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">Dense 10 + Softmax</text>
 <text x="132" y="991" font-size="20" fill="#0f172a" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">10クラスの出力</text>
 <text x="370" y="991" font-size="16" fill="#475569" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0〜9の予測につなげる</text>
-<text x="32" y="1036" font-size="14" fill="#64748b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">※ CNNで学習されるフィルターは合計64個だけ、という意味ではありません。各Conv層の出力チャネル数です。</text>
+<text x="32" y="1036" font-size="14" fill="#64748b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">※ フィルター数＝Conv層の出力チャネル数です。</text>
 </svg>
