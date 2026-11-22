@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1030" height="475" viewBox="0 0 1030 475" role="img" aria-labelledby="title desc">
+<title id="title">予測スコアのしきい値と人間による確認件数・自動誤答の関係</title>
+<desc id="desc">digits検証360枚。制限なしでは自動360枚、人の確認0枚、自動誤答14枚。しきい値0.50で自動324枚、人36枚、誤答3枚。0.60で自動286枚、人74枚、誤答1枚。0.70で自動252枚、人108枚、誤答0枚。</desc>
+<rect width="1030" height="475" rx="16" fill="#ffffff"/>
+<text x="34" y="48" font-size="25" font-weight="bold" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">人が確認する件数を増やすと、自動の間違いはどう変わる？</text>
+<text x="34" y="80" font-size="15" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">同じ検証360枚を、ランダムフォレストの予測スコアに応じて振り分けた結果</text>
+<rect x="36" y="112" width="16" height="16" fill="#2563eb"/>
+<text x="60" y="126" font-size="14" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">自動判定</text>
+<rect x="216" y="112" width="16" height="16" fill="#f59e0b"/>
+<text x="240" y="126" font-size="14" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">人が確認</text>
+<text x="790" y="126" font-size="15" font-weight="bold" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">自動判定の誤答</text>
+<text x="37" y="198" font-size="17" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">制限なし</text>
+<rect x="165" y="177" width="555.0" height="34" rx="4" fill="#2563eb"/>
+<text x="798" y="203" font-size="25" font-weight="bold" fill="#dc2626" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">14枚</text>
+<text x="165" y="229" font-size="13" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">自動 360枚 ／ 人が確認 0枚</text>
+<text x="37" y="265" font-size="17" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0.50 以上</text>
+<rect x="165" y="244" width="499.5" height="34" rx="4" fill="#2563eb"/>
+<rect x="664.5" y="244" width="55.5" height="34" fill="#f59e0b"/>
+<text x="798" y="270" font-size="25" font-weight="bold" fill="#dc2626" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">3枚</text>
+<text x="165" y="296" font-size="13" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">自動 324枚 ／ 人が確認 36枚</text>
+<text x="37" y="332" font-size="17" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0.60 以上</text>
+<rect x="165" y="311" width="440.9" height="34" rx="4" fill="#2563eb"/>
+<rect x="605.9" y="311" width="114.1" height="34" fill="#f59e0b"/>
+<text x="798" y="337" font-size="25" font-weight="bold" fill="#dc2626" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1枚</text>
+<text x="165" y="363" font-size="13" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">自動 286枚 ／ 人が確認 74枚</text>
+<text x="37" y="399" font-size="17" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0.70 以上</text>
+<rect x="165" y="378" width="388.5" height="34" rx="4" fill="#2563eb"/>
+<rect x="553.5" y="378" width="166.5" height="34" fill="#f59e0b"/>
+<text x="798" y="404" font-size="25" font-weight="bold" fill="#15803d" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0枚</text>
+<text x="165" y="430" font-size="13" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">自動 252枚 ／ 人が確認 108枚</text>
+<text x="34" y="454" font-size="13" fill="#64748b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">※ 誤答0枚はこの検証データでの結果。新しいデータでの正解は保証されません。</text>
+</svg>
