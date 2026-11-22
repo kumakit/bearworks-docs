@@ -14,6 +14,7 @@ nav:
       - 統計検定DS発展・勉強メモ: ds_dev.md
       - 機械学習:
           - Kaggleから学ぶランダムフォレスト: random-forest-from-kaggle.md
+          - 多項ロジスティック回帰を可視化する: multinomial-logistic-regression-from-kaggle.md
   - 実務への応用:
       - 独立と排反（問い合わせ・障害分析）: independence-mutual-exclusivity-in-operations.md
   - Bearworks Hub: https://bearworks.uk/
