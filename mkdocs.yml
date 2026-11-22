@@ -15,6 +15,7 @@ nav:
       - 機械学習:
           - Kaggleから学ぶランダムフォレスト: random-forest-from-kaggle.md
           - 多項ロジスティック回帰を可視化する: multinomial-logistic-regression-from-kaggle.md
+          - 機械学習はどこで間違えるのか？: machine-learning-error-analysis.md
           - AIが迷う予測だけ人が確認する: uncertain-predictions-human-review.md
   - 実務への応用:
       - 独立と排反（問い合わせ・障害分析）: independence-mutual-exclusivity-in-operations.md

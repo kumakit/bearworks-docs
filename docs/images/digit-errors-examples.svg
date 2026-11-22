@@ -1,0 +1,434 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="760" viewBox="0 0 1120 760" role="img" aria-labelledby="title desc">
+<title id="title">6枚の実際の誤答画像。正解とモデル別予測</title>
+<desc id="desc">公開scikit-learn digitsの8×8画像。上段2枚は両方のモデルが誤答、中段2枚はロジスティック回帰だけ誤答、下段2枚はランダムフォレストだけ誤答。図の濃淡は元データのピクセル値。</desc>
+<rect width="1120" height="760" rx="18" fill="#ffffff"/>
+<text x="36" y="46" font-size="26" font-weight="750" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">実際に読み間違えた6枚</text>
+<text x="36" y="75" font-size="15" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">8×8ピクセルの元画像を表示。正解・両モデルの予測を見比べてみてください。</text>
+<rect x="30" y="100" width="514" height="192" rx="12" fill="#eff6ff" stroke="#e2e8f0"/>
+<text x="52" y="133" font-size="18" font-weight="650" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">両モデルとも誤答</text>
+<text x="52" y="167" font-size="16" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">データID 1553</text>
+<text x="52" y="207" font-size="19" font-weight="650" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解：8</text>
+<text x="52" y="237" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">LR予測：1 ×</text>
+<text x="52" y="264" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">RF予測：1 ×</text>
+<rect x="356" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="120" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="413" y="120" width="19" height="19" fill="rgb(127,127,127)"/>
+<rect x="432" y="120" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="451" y="120" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="470" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="139" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="139" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="139" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="413" y="139" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="139" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="451" y="139" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="470" y="139" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="139" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="158" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="158" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="394" y="158" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="413" y="158" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="158" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="451" y="158" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="470" y="158" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="158" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="177" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="394" y="177" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="413" y="177" width="19" height="19" fill="rgb(32,32,32)"/>
+<rect x="432" y="177" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="451" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="196" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="394" y="196" width="19" height="19" fill="rgb(143,143,143)"/>
+<rect x="413" y="196" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="432" y="196" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="451" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="215" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="215" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="394" y="215" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="413" y="215" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="432" y="215" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="451" y="215" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="215" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="215" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="234" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="413" y="234" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="432" y="234" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="451" y="234" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="470" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="413" y="253" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="432" y="253" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="451" y="253" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="470" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="120" width="152" height="152" fill="none" stroke="#94a3b8"/>
+<rect x="570" y="100" width="514" height="192" rx="12" fill="#eff6ff" stroke="#e2e8f0"/>
+<text x="592" y="133" font-size="18" font-weight="650" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">両モデルとも誤答</text>
+<text x="592" y="167" font-size="16" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">データID 492</text>
+<text x="592" y="207" font-size="19" font-weight="650" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解：6</text>
+<text x="592" y="237" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">LR予測：8 ×</text>
+<text x="592" y="264" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">RF予測：8 ×</text>
+<rect x="896" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="120" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="972" y="120" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="991" y="120" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="1010" y="120" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="1029" y="120" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="139" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="139" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="139" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="953" y="139" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="972" y="139" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="991" y="139" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="1010" y="139" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="1029" y="139" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="158" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="158" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="934" y="158" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="953" y="158" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="972" y="158" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="991" y="158" width="19" height="19" fill="rgb(127,127,127)"/>
+<rect x="1010" y="158" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="1029" y="158" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="177" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="934" y="177" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="953" y="177" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="972" y="177" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="991" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1010" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="177" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="196" width="19" height="19" fill="rgb(127,127,127)"/>
+<rect x="934" y="196" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="953" y="196" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="972" y="196" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="991" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1010" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="196" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="215" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="215" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="934" y="215" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="953" y="215" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="972" y="215" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="991" y="215" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="1010" y="215" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="215" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="234" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="953" y="234" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="972" y="234" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="991" y="234" width="19" height="19" fill="rgb(143,143,143)"/>
+<rect x="1010" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="234" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="253" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="953" y="253" width="19" height="19" fill="rgb(127,127,127)"/>
+<rect x="972" y="253" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="991" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1010" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="253" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="120" width="152" height="152" fill="none" stroke="#94a3b8"/>
+<rect x="30" y="304" width="514" height="192" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="52" y="337" font-size="18" font-weight="650" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">ロジスティック回帰だけ誤答</text>
+<text x="52" y="371" font-size="16" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">データID 1256</text>
+<text x="52" y="411" font-size="19" font-weight="650" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解：1</text>
+<text x="52" y="441" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">LR予測：8 ×</text>
+<text x="52" y="468" font-size="17" fill="#15803d" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">RF予測：1 ○</text>
+<rect x="356" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="324" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="413" y="324" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="324" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="451" y="324" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="470" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="343" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="413" y="343" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="343" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="451" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="362" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="413" y="362" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="362" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="451" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="381" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="413" y="381" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="381" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="451" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="400" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="413" y="400" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="400" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="451" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="419" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="413" y="419" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="451" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="438" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="413" y="438" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="438" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="451" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="457" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="413" y="457" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="432" y="457" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="451" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="470" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="324" width="152" height="152" fill="none" stroke="#94a3b8"/>
+<rect x="570" y="304" width="514" height="192" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="592" y="337" font-size="18" font-weight="650" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">ロジスティック回帰だけ誤答</text>
+<text x="592" y="371" font-size="16" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">データID 639</text>
+<text x="592" y="411" font-size="19" font-weight="650" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解：8</text>
+<text x="592" y="441" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">LR予測：1 ×</text>
+<text x="592" y="468" font-size="17" fill="#15803d" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">RF予測：8 ○</text>
+<rect x="896" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="324" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="972" y="324" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="991" y="324" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="1010" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="324" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="343" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="953" y="343" width="19" height="19" fill="rgb(32,32,32)"/>
+<rect x="972" y="343" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="991" y="343" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="1010" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="343" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="362" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="972" y="362" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="991" y="362" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="1010" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="362" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="381" width="19" height="19" fill="rgb(32,32,32)"/>
+<rect x="972" y="381" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="991" y="381" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="1010" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="381" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="400" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="953" y="400" width="19" height="19" fill="rgb(32,32,32)"/>
+<rect x="972" y="400" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="991" y="400" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="1010" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="400" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="419" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="934" y="419" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="953" y="419" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="972" y="419" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="991" y="419" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="1010" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="419" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="438" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="953" y="438" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="972" y="438" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="991" y="438" width="19" height="19" fill="rgb(143,143,143)"/>
+<rect x="1010" y="438" width="19" height="19" fill="rgb(127,127,127)"/>
+<rect x="1029" y="438" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="457" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="457" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="972" y="457" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="991" y="457" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="1010" y="457" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="1029" y="457" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="896" y="324" width="152" height="152" fill="none" stroke="#94a3b8"/>
+<rect x="30" y="508" width="514" height="192" rx="12" fill="#eff6ff" stroke="#e2e8f0"/>
+<text x="52" y="541" font-size="18" font-weight="650" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">ランダムフォレストだけ誤答</text>
+<text x="52" y="575" font-size="16" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">データID 1593</text>
+<text x="52" y="615" font-size="19" font-weight="650" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解：2</text>
+<text x="52" y="645" font-size="17" fill="#15803d" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">LR予測：2 ○</text>
+<text x="52" y="672" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">RF予測：0 ×</text>
+<rect x="356" y="528" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="528" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="528" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="413" y="528" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="528" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="451" y="528" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="470" y="528" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="528" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="547" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="547" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="547" width="19" height="19" fill="rgb(127,127,127)"/>
+<rect x="413" y="547" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="432" y="547" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="451" y="547" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="470" y="547" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="547" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="413" y="566" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="432" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="451" y="566" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="470" y="566" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="489" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="413" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="432" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="451" y="585" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="470" y="585" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="489" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="413" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="432" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="451" y="604" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="470" y="604" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="489" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="623" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="413" y="623" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="432" y="623" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="451" y="623" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="470" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="489" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="356" y="642" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="642" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="642" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="413" y="642" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="642" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="451" y="642" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="470" y="642" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="489" y="642" width="19" height="19" fill="rgb(191,191,191)"/>
+<rect x="356" y="661" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="375" y="661" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="394" y="661" width="19" height="19" fill="rgb(143,143,143)"/>
+<rect x="413" y="661" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="432" y="661" width="19" height="19" fill="rgb(48,48,48)"/>
+<rect x="451" y="661" width="19" height="19" fill="rgb(96,96,96)"/>
+<rect x="470" y="661" width="19" height="19" fill="rgb(127,127,127)"/>
+<rect x="489" y="661" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="356" y="528" width="152" height="152" fill="none" stroke="#94a3b8"/>
+<rect x="570" y="508" width="514" height="192" rx="12" fill="#eff6ff" stroke="#e2e8f0"/>
+<text x="592" y="541" font-size="18" font-weight="650" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">ランダムフォレストだけ誤答</text>
+<text x="592" y="575" font-size="16" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">データID 1216</text>
+<text x="592" y="615" font-size="19" font-weight="650" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解：3</text>
+<text x="592" y="645" font-size="17" fill="#15803d" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">LR予測：3 ○</text>
+<text x="592" y="672" font-size="17" fill="#b91c1c" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">RF予測：9 ×</text>
+<rect x="896" y="528" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="528" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="934" y="528" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="953" y="528" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="972" y="528" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="991" y="528" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="1010" y="528" width="19" height="19" fill="rgb(223,223,223)"/>
+<rect x="1029" y="528" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="547" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="547" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="934" y="547" width="19" height="19" fill="rgb(80,80,80)"/>
+<rect x="953" y="547" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="972" y="547" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="991" y="547" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="1010" y="547" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="1029" y="547" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="972" y="566" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="991" y="566" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="1010" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="1029" y="566" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="972" y="585" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="991" y="585" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="1010" y="585" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="1029" y="585" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="972" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="991" y="604" width="19" height="19" fill="rgb(32,32,32)"/>
+<rect x="1010" y="604" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="1029" y="604" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="953" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="972" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="991" y="623" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="1010" y="623" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="1029" y="623" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="642" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="642" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="642" width="19" height="19" fill="rgb(175,175,175)"/>
+<rect x="953" y="642" width="19" height="19" fill="rgb(207,207,207)"/>
+<rect x="972" y="642" width="19" height="19" fill="rgb(159,159,159)"/>
+<rect x="991" y="642" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="1010" y="642" width="19" height="19" fill="rgb(143,143,143)"/>
+<rect x="1029" y="642" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="661" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="915" y="661" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="934" y="661" width="19" height="19" fill="rgb(64,64,64)"/>
+<rect x="953" y="661" width="19" height="19" fill="rgb(0,0,0)"/>
+<rect x="972" y="661" width="19" height="19" fill="rgb(16,16,16)"/>
+<rect x="991" y="661" width="19" height="19" fill="rgb(112,112,112)"/>
+<rect x="1010" y="661" width="19" height="19" fill="rgb(239,239,239)"/>
+<rect x="1029" y="661" width="19" height="19" fill="rgb(255,255,255)"/>
+<rect x="896" y="528" width="152" height="152" fill="none" stroke="#94a3b8"/>
+<text x="34" y="731" font-size="15" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">LR＝ロジスティック回帰　／　RF＝ランダムフォレスト　／　○正解・×誤答</text>
+</svg>

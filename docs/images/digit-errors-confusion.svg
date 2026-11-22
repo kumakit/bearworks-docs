@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="560" viewBox="0 0 1120 560" role="img" aria-labelledby="title desc">
+<title id="title">どの数字を取り違えた？ 誤答だけを集めた混同行列</title>
+<desc id="desc">scikit-learn digits検証360枚。ロジスティック回帰は誤答10枚で8を1と誤る例が4枚。ランダムフォレストは誤答14枚で8を1と誤る例が3枚。行が正解、列が予測。灰色の対角線の正解は非表示。</desc>
+<rect width="1120" height="560" rx="18" fill="#ffffff"/>
+<text x="36" y="48" font-size="26" font-weight="750" fill="#0f172a" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">どの数字を取り違えた？</text>
+<text x="36" y="77" font-size="15" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">混同行列の「間違えた部分」だけを表示（検証360枚、同じデータで比較）</text>
+<rect x="26" y="101" width="522" height="415" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="286" y="133" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">多項ロジスティック回帰（誤答 10枚）</text>
+<text x="80" y="180" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0</text>
+<rect x="96" y="158" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="393" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="213" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="96" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="191" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="191" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="211.5" y="213" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="228" y="191" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="244.5" y="213" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="261" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="191" width="33" height="33" fill="#fdba74" stroke="#e2e8f0" stroke-width="1"/>
+<text x="376.5" y="213" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">2</text>
+<rect x="393" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="246" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">2</text>
+<rect x="96" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="224" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="393" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="279" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">3</text>
+<rect x="96" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="257" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="393" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="312" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">4</text>
+<rect x="96" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="290" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="393" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="345" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">5</text>
+<rect x="96" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="323" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="393" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="378" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">6</text>
+<rect x="96" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="356" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="356" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="376.5" y="378" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="393" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="411" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">7</text>
+<rect x="96" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="389" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="393" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="444" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">8</text>
+<rect x="96" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="422" width="33" height="33" fill="#ea580c" stroke="#e2e8f0" stroke-width="1"/>
+<text x="145.5" y="444" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">4</text>
+<rect x="162" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="422" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="393" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="80" y="477" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">9</text>
+<rect x="96" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="129" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="162" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="195" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="228" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="261" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="294" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="327" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="360" y="455" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="376.5" y="477" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="393" y="455" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="112.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0</text>
+<text x="145.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<text x="178.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">2</text>
+<text x="211.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">3</text>
+<text x="244.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">4</text>
+<text x="277.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">5</text>
+<text x="310.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">6</text>
+<text x="343.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">7</text>
+<text x="376.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">8</text>
+<text x="409.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">9</text>
+<text x="261" y="533" text-anchor="middle" font-size="14" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">横：モデルが予測した数字</text>
+<text transform="translate(45 323) rotate(-90)" text-anchor="middle" font-size="14" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">縦：正解の数字</text>
+<rect x="579" y="101" width="522" height="415" rx="12" fill="#f8fafc" stroke="#e2e8f0"/>
+<text x="839" y="133" text-anchor="middle" font-size="20" font-weight="700" fill="#1e293b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">ランダムフォレスト（誤答 14枚）</text>
+<text x="633" y="180" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0</text>
+<rect x="649" y="158" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="158" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="797.5" y="180" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="814" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="158" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="213" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="649" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="191" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="191" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="830.5" y="213" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="847" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="191" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="246" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">2</text>
+<rect x="649" y="224" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="665.5" y="246" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="682" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="224" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="224" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="279" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">3</text>
+<rect x="649" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="257" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="257" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="257" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="962.5" y="279" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<text x="633" y="312" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">4</text>
+<rect x="649" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="290" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="698.5" y="312" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="715" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="290" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="290" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="345" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">5</text>
+<rect x="649" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="323" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="323" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="378" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">6</text>
+<rect x="649" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="356" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="356" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="929.5" y="378" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="946" y="356" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="411" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">7</text>
+<rect x="649" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="389" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="913" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="389" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="444" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">8</text>
+<rect x="649" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="422" width="33" height="33" fill="#fb923c" stroke="#e2e8f0" stroke-width="1"/>
+<text x="698.5" y="444" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">3</text>
+<rect x="715" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="781" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="422" width="33" height="33" fill="#fdba74" stroke="#e2e8f0" stroke-width="1"/>
+<text x="896.5" y="444" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">2</text>
+<rect x="913" y="422" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="946" y="422" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<text x="633" y="477" text-anchor="end" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">9</text>
+<rect x="649" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="682" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="715" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="748" y="455" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="764.5" y="477" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="781" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="814" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="847" y="455" width="33" height="33" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+<rect x="880" y="455" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="896.5" y="477" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="913" y="455" width="33" height="33" fill="#ffedd5" stroke="#e2e8f0" stroke-width="1"/>
+<text x="929.5" y="477" text-anchor="middle" font-size="17" font-weight="700" fill="#7c2d12" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<rect x="946" y="455" width="33" height="33" fill="#cbd5e1" stroke="#e2e8f0" stroke-width="1"/>
+<text x="665.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0</text>
+<text x="698.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">1</text>
+<text x="731.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">2</text>
+<text x="764.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">3</text>
+<text x="797.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">4</text>
+<text x="830.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">5</text>
+<text x="863.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">6</text>
+<text x="896.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">7</text>
+<text x="929.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">8</text>
+<text x="962.5" y="511" text-anchor="middle" font-size="15" fill="#334155" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">9</text>
+<text x="814" y="533" text-anchor="middle" font-size="14" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">横：モデルが予測した数字</text>
+<text transform="translate(598 323) rotate(-90)" text-anchor="middle" font-size="14" fill="#475569" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">縦：正解の数字</text>
+<text x="38" y="544" font-size="14" fill="#64748b" font-family="system-ui, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">※ 灰色の対角線は正解件数を伏せた部分。オレンジ色の数字だけが誤答件数を表します。</text>
+</svg>
