@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="970" height="420" viewBox="0 0 970 420" role="img" aria-labelledby="title desc">
+<title id="title">Kaggle公開スコア96.360%から99.132%に改善</title>
+<desc id="desc">Kaggle Digit Recognizerの自身の公開リーダーボードのスコア。ランダムフォレスト96.360%、CNN99.132%。誤り率はそれぞれ3.640%、0.868%。横棒は誤り率を0から4%の目盛りで表示。提出や学習条件が完全一致した対照実験ではない。</desc>
+<rect width="970" height="420" rx="16" fill="#fff"/>
+<text x="33" y="47" font-size="27" font-weight="bold" fill="#0f172a" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">99%の「残り1%」を見る</text>
+<text x="33" y="77" font-size="16" fill="#475569" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">Kaggle Digit Recognizer / 公開リーダーボード（自身の実験ログ）</text>
+<text x="315" y="119" font-size="16" fill="#475569" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">誤り率を比較（横軸 0〜4%）</text>
+<text x="34" y="177" font-size="20" font-weight="bold" fill="#1e293b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">ランダムフォレスト</text>
+<rect x="312" y="153" width="525" height="40" rx="8" fill="#f1f5f9"/>
+<rect x="312" y="153" width="477.75" height="40" rx="8" fill="#f97316"/>
+<text x="851" y="181" font-size="21" font-weight="bold" fill="#1e293b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">3.640%</text>
+<text x="313" y="219" font-size="17" fill="#334155" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解率：96.360%</text>
+<text x="34" y="285" font-size="20" font-weight="bold" fill="#1e293b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">CNN</text>
+<rect x="312" y="261" width="525" height="40" rx="8" fill="#f1f5f9"/>
+<rect x="312" y="261" width="113.92" height="40" rx="8" fill="#2563eb"/>
+<text x="851" y="289" font-size="21" font-weight="bold" fill="#1e293b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">0.868%</text>
+<text x="313" y="327" font-size="17" fill="#334155" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">正解率：99.132%</text>
+<text x="34" y="382" font-size="14" fill="#64748b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">※ 正解率は公開評価部分の値。誤り率は 100%−正解率から計算。</text>
+<text x="34" y="403" font-size="14" fill="#64748b" font-family="Inter, 'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif">※ 訓練条件・提出内容がすべて揃った因果的な比較ではありません。</text>
+</svg>
